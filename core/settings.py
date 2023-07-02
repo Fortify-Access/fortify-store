@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     # apps
     'config',
     'inbounds',
+    'payment',
+    'bot',
 ]
 
 MIDDLEWARE = [
